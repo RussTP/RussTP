@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<a href="https://app.daily.dev/russtp"><img src="https://api.daily.dev/devcards/v2/HdaT76NQgD3lCl38g6zng.png?type=default&r=y78" width="356" alt="Russ's Dev Card"/></a>
 <!--
 **RussTP/RussTP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
