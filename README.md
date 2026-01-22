@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=RussTP)](https://github.com/ignacio-cuadra/github-readme-codewars)
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=RussTP)](https://github.com/RussTP/github-readme-codewars)
 
 
 - 🔭 I'm currently working on becoming a fullstack developer 
