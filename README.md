@@ -1,5 +1,5 @@
 ## Hi there 👋
-[<a href="https://app.daily.dev/russtp"><img src="https://api.daily.dev/devcards/v2/HdaT76NQgD3lCl38g6zng.png?type=default&r=y78" width="356" alt="Russ's Dev Card"/></a>](https://www.codewars.com/users/RussTP/badges/large)
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=RussTP)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
 
 - 🔭 I'm currently working on becoming a fullstack developer 
